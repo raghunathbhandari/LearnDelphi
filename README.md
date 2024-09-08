@@ -14,7 +14,7 @@ Basic understanding of Delphi Threads and Windows messaging.
 # How It Works
 This project uses the TThread class to run background tasks while the main thread remains responsive. Two threads simulate timers, and PostMessage is used to update the UI with thread data.
 
-#Key Concepts
+# Key Concepts
 Thread Creation: Custom TTimerThread class executes a timed loop.
 PostMessage: Safely passes data from threads to the main thread to update UI components.
 
