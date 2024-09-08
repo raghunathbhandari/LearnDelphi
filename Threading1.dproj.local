@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/27 14:43:13.000.111,=C:\Users\raghu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/07 12:44:32.000.793,=C:\Users\raghu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/07 12:45:37.000.540,C:\D\Projects\DelphiApplications\Threading1\Form1Unit.dfm=C:\Users\raghu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/07 12:45:37.000.540,C:\D\Projects\DelphiApplications\Threading1\Form1Unit.pas=C:\Users\raghu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/07 12:51:47.000.909,C:\D\Projects\DelphiApplications\Threading1\Threading1.dproj=C:\Users\raghu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/08 10:08:45.444,=C:\D\Projects\DelphiApplications\Threading1\Unit1.pas</Transaction>
+    <Transaction>2024/09/08 10:09:06.954,C:\D\Projects\DelphiApplications\Threading1\UThreadTimer.pas=C:\D\Projects\DelphiApplications\Threading1\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
