@@ -19,5 +19,5 @@ Thread Creation: Custom TTimerThread class executes a timed loop.
 PostMessage: Safely passes data from threads to the main thread to update UI components.
 
 
-![Screenshot_1](https://github.com/raghunathbhandari/LearnDelphi/blob/main/Threading1.png))
+![Screenshot_1](https://github.com/raghunathbhandari/LearnDelphi/blob/main/Threading1.png)
 
