@@ -2,6 +2,9 @@
 # LearnDelphi Threading
 Delphi Threading Example demonstrating how to create a timer thread that runs concurrently with the main thread without causing interruptions, and how to communicate between threads.
 
+![Screenshot_1](https://github.com/raghunathbhandari/LearnDelphi/blob/main/Threading1.png)
+
+
 # Features
 Multithreading: Two independent timers run in separate threads, keeping the UI responsive.
 Message Passing: PostMessage is used to safely communicate between the main thread and worker threads.
