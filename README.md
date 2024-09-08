@@ -1,5 +1,5 @@
 
-### Learn Delphi programming and Multi Threading concept
+## Learn Delphi programming and Multi Threading concept
 Delphi Threading Example demonstrating how to create a timer thread that runs concurrently with the main thread without causing interruptions, and how to communicate between threads.
 
 ![Screenshot_1](https://github.com/raghunathbhandari/LearnDelphi/blob/main/Threading1.png)
